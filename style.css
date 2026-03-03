@@ -1,0 +1,74 @@
+*
+{
+    font-family: Geneva, Helvetica, sans-serif;
+}
+
+/* image styling */
+#profile_pic {
+    width: 100%;
+    height: 100%;
+}
+
+#linkedin {
+    width: 4%;
+    height: 4%;
+}
+
+#planeclairium {
+    width: 50%;
+    height: 50%;
+}
+
+
+
+/* navigation bar styling */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 160px;
+  background-color: #F4F6D0;
+}
+
+nav li a {
+  display: block;
+  color: #13130B;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #889E15;
+  color: #F4F6D0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid;
+}
+
+th {
+    background-color: #a8bd40;
+}
+
+td {
+    background-color: #F4F6D0
+}
+
+caption {
+  caption-side: top;
+}
+
+footer {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
